@@ -1,4 +1,4 @@
-module blockchainkeys
+module github.com/penguin0106/blockchainkeys
 
 go 1.20
 
