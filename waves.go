@@ -1,4 +1,4 @@
-package pkg
+package blockchainkeys
 
 import (
 	"github.com/btcsuite/btcd/btcutil/hdkeychain"

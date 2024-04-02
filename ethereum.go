@@ -1,4 +1,4 @@
-package pkg
+package blockchainkeys
 
 import (
 	"crypto/ecdsa"
