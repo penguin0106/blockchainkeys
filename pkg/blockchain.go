@@ -1,4 +1,4 @@
-package blockchainkeys
+package pkg
 
 import "fmt"
 
